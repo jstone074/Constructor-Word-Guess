@@ -6,9 +6,12 @@ A Harry Potter themed hangman built within node!!
 
     ![first Screenshot](/assets/screenshot_one.png)
 
+    
 * The game will end when either the word is no longer hidden or when the users remaining guesses reach 0. The end user will than be prompted to play again or quit: 
 
-   ![first Screenshot](/assets/screenshot_two.png)
+    ![first Screenshot](/assets/screenshot_three.png)
+
+    ![first Screenshot](/assets/screenshot_two.png)
 
 
 
